@@ -1,10 +1,10 @@
-<div aling="center">
+<div align="center">
  <h1>TikTok-ViewBot</h1>
-  <h2><a href="https://www.tiktok.com/@natrixofficiel">My TikTok Accoun</a>t</h2>
-  <h2><a href="https://www.tiktok.com/@natrixofficiel/video/7246716749318507802">A botted video</a></h3>
+  <h3><a href="https://www.tiktok.com/@natrixofficiel">My TikTok Account</a></h3>
+  <h3><a href="https://www.tiktok.com/@natrixofficiel/video/7246716749318507802">A botted video</a></h3>
   <br>
-  <h2><a href="https://github.com/natrixdev">Credits</a></h2>
-        <br>
+  <h3><a href="https://github.com/natrixdev">Credits</a></h3>
+        
         <br>
         <h1><a href="https://t.me/itsnatrix">Buy It for $25 Only Here</a></h1>
 </div>
@@ -20,9 +20,9 @@
 ![image](https://github.com/natrixdev/TikTok-ViewBot/assets/88579983/85dc118e-f796-4f23-bd16-3efa6958eb91)
 
 ## Stats :
-Anti-Ban ✅
-300k views / hour 🤖
-No Drop 🎀
-And Its made by natrix 🎉
+Anti-Ban ✅<br>
+300k views / hour 🤖<br>
+No Drop 🎀<br>
+And Its made by natrix 🎉<br>
 
 
