@@ -4,9 +4,8 @@
   <h3><a href="https://www.tiktok.com/@natrixofficiel/video/7246716749318507802">A botted video</a></h3>
   <br>
   <h3><a href="https://github.com/natrixdev">Credits</a></h3>
-        
-        <br>
-        <h1><a href="https://t.me/itsnatrix">Buy It for $25 Only Here</a></h1>
+  <br>
+  <h1><a href="https://t.me/itsnatrix">Buy It for $25 Only Here</a></h1>
 </div>
 
 ## Proof 
